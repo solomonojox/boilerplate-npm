@@ -1,5 +1,6 @@
 {
 	"author": "Akpa, Solomon",
+	"description": "This is project to learn Backend",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
