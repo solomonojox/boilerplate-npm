@@ -1,6 +1,7 @@
 {
 	"author": "Akpa, Solomon",
 	"description": "This is project to learn Backend",
+	"keywords": [ "freecodecamp", "backend", "development" ],
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
